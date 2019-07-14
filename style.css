@@ -37,7 +37,6 @@ body {
   background-position: center;
   flex: 1;
   justify-content: center;
-  align-items: center;
   display: flex;
   flex-direction: column;
 }
